@@ -19,6 +19,7 @@ Operational Risk: Analysis of accidents by hour of the day, identifying peak ris
 Geospatial Mapping: Identification of accident hotspots across North America.
 
 2. Root Cause Analysis
+3. 
 Focuses on the "Why" and "How."
 
 Behavioral Analysis: Categorizing motorist actions (e.g., "Did Not Stop," "Went Around Gate").
@@ -28,6 +29,7 @@ Infrastructure Evaluation: Measuring the effectiveness of warning devices (Gates
 Environmental Impact: Analyzing the correlation between weather states (Clear, Cloudy, Rain) and visibility obstructions.
 
 📉 Key Findings & Insights
+
 The Visibility Paradox: Clear weather accounts for the majority of accidents (144K), suggesting that driver overconfidence is a higher risk factor than poor weather.
 
 Infrastructure Gap: 91.29% of accidents occurred at crossings already equipped with Gates, indicating that physical barriers are often bypassed by motorists.
@@ -37,6 +39,7 @@ Sightline Obstructions: Standing RR Equipment is the leading cause of visibility
 Peak Risk Hours: Accidents peak between 10:00 AM and 4:00 PM, correlating with high-volume commercial and commuter traffic.
 
 🛠️ Technical Stack & Methodology
+
 Tool: Power BI Desktop
 
 Data Transformation: Power Query (M) used for data cleaning, binning train speeds, and standardizing categorical variables.
@@ -51,9 +54,11 @@ Live Dashboard (Google Drive):https://drive.google.com/drive/folders/1ppWIg8E3Ch
 LinkedIn Post:https://www.linkedin.com/posts/mis-p_powerbi-dataanalytics-dashboarddesign-activity-7405651503702634496-ee-U?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEc1apEBMVz1IYns8QfgHAPxuGghQrvsgng
 
 Data Source:https://drive.google.com/drive/folders/1ppWIg8E3ChfDTXBbJUXUnzBWrGi1w1c2?usp=sharing
+
 📸 Dashboard Preview
 Performance View
 Root Cause Analysis View
+
 💡 Recommendations
 Infrastructure: Implement stricter regulations regarding "Standing Equipment" near active crossings to clear motorist sightlines.
 
@@ -64,3 +69,5 @@ Policy: Use the identified "Hotspots" map to prioritize the next phase of Grade 
 👤 Author
 Mishrilal Parihar
 LinkedIn Profile: www.linkedin.com/in/mis-p
+
+
