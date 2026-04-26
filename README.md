@@ -7,7 +7,7 @@ By synthesizing over 217K incidents, this tool transitions from high-level perfo
 🏗️ Project Structure
 The analysis is divided into two primary analytical views:
 
-1. Performance
+1. Performance Dashboard
 Focuses on the "What" and "When."
 
 KPIs: Total Accidents (217K), Total Fatalities (20K), Total Injuries (79K), and Fatality Rate (9.3%).
