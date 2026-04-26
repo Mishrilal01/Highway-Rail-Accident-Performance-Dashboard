@@ -19,8 +19,7 @@ Operational Risk: Analysis of accidents by hour of the day, identifying peak ris
 Geospatial Mapping: Identification of accident hotspots across North America.
 
 2. Root Cause Analysis
-3. 
-Focuses on the "Why" and "How."
+3. Focuses on the "Why" and "How."
 
 Behavioral Analysis: Categorizing motorist actions (e.g., "Did Not Stop," "Went Around Gate").
 
